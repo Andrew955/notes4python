@@ -1,5 +1,5 @@
 # notes4python
-Some notes for python learning.
+Some notes for python learning. Gleaned and sorted from [廖雪峰](!https://www.liaoxuefeng.com/wiki/1016959663602400)
 
 ## 1 python基础
 ### 1.1 数据类型和变量
